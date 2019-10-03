@@ -17,5 +17,4 @@ This is the content of my page
 
 
 
-
-  ## heading2
+## heading2
